@@ -1,0 +1,30 @@
+{
+  "name": "willis-calculator",
+  "version": "1.0.0",
+  "description": "Chiller plant simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3dves/willis-calculator.git"
+  },
+  "keywords": [
+    "willis",
+    "calculator",
+    "simulator",
+    "plant",
+    "simulator",
+    "chiller",
+    "pumps",
+    "cooling",
+    "towers"
+  ],
+  "author": "Sergio Villagran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3dves/willis-calculator/issues"
+  },
+  "homepage": "https://github.com/3dves/willis-calculator#readme"
+}
